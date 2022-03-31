@@ -1,8 +1,8 @@
-## 人脸表情识别问题
+# 人脸表情识别问题
 
 ---
 
-#### 文件结构
+### 文件结构
 
 + `data/`：文件夹下是训练集，以及一些图表、评估结果、网络应用所需的图片、视频文件
 + `trained/`：文件夹下是训练好的模型（带网络结构），以及opencv识别人脸位置的模型
@@ -15,7 +15,7 @@
 
 ---
 
-#### `Application.py`的使用
+### `Application.py`的使用
 
 + 环境要求
 
@@ -45,7 +45,7 @@ python Application.py --path ./data/video.mp4
 
 ---
 
-#### 效果展示
+### 效果展示
 
 <img src="README.assets/image-20220331143107561.png" alt="image-20220331143107561" style="zoom: 80%;" />
 
