@@ -43,3 +43,10 @@ python Application.py --path ./data/img.jpg
 python Application.py --path ./data/video.mp4
 ```
 
+---
+
+#### 效果展示
+
+<img src="README.assets/image-20220331143107561.png" alt="image-20220331143107561" style="zoom: 80%;" />
+
+视频同理
